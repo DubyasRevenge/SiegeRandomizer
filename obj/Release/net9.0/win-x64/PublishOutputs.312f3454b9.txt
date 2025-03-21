@@ -1,0 +1,5 @@
+C:\Users\thicc\Desktop\Projects\Visual Studio\publish\SiegeRandomizer.exe
+C:\Users\thicc\Desktop\Projects\Visual Studio\publish\SiegeRandomizer.dll
+C:\Users\thicc\Desktop\Projects\Visual Studio\publish\SiegeRandomizer.deps.json
+C:\Users\thicc\Desktop\Projects\Visual Studio\publish\SiegeRandomizer.runtimeconfig.json
+C:\Users\thicc\Desktop\Projects\Visual Studio\publish\SiegeRandomizer.pdb

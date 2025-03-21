@@ -1,0 +1,14 @@
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\bin\Release\net9.0\win-x64\SiegeRandomizer.exe
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\bin\Release\net9.0\win-x64\SiegeRandomizer.deps.json
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\bin\Release\net9.0\win-x64\SiegeRandomizer.runtimeconfig.json
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\bin\Release\net9.0\win-x64\SiegeRandomizer.dll
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\bin\Release\net9.0\win-x64\SiegeRandomizer.pdb
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\SiegeRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\SiegeRandomizer.AssemblyInfoInputs.cache
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\SiegeRandomizer.AssemblyInfo.cs
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\SiegeRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\SiegeRandomizer.dll
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\refint\SiegeRandomizer.dll
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\SiegeRandomizer.pdb
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\SiegeRandomizer.genruntimeconfig.cache
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\ref\SiegeRandomizer.dll
