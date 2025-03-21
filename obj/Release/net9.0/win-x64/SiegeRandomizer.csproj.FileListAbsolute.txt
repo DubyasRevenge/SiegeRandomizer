@@ -12,3 +12,4 @@ C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0
 C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\SiegeRandomizer.pdb
 C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\SiegeRandomizer.genruntimeconfig.cache
 C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\ref\SiegeRandomizer.dll
+C:\Users\thicc\Desktop\Projects\Visual Studio\SiegeRandomizer\obj\Release\net9.0\win-x64\SiegeRandomizer.sourcelink.json
