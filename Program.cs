@@ -52,13 +52,11 @@ class Program
         }
         else if (startSide == "atk")
         {
-          //Console.WriteLine("Enter the next banned attacker");
           DisplayBannedOperators(attackers, attackBans, "Attackers");
           DisplayRandomOperators(attackers, "Attackers");
         }
         else if (startSide == "def")
         {
-          //Console.WriteLine("Enter the next banned defender");
           DisplayBannedOperators(defenders, defenseBans, "Defenders");
           DisplayRandomOperators(defenders, "Defenders");
         }
