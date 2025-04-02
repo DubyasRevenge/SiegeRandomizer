@@ -14,7 +14,7 @@ class Program
     "sledge", "thatcher", "thermite", "ash", "glaz", "fuze", "twitch", "montagne",
     "iq", "blitz", "buck", "blackbeard", "capitao", "hibana", "jackal", "ying", "zofia", "dokkaebi", "finka", "lion",
     "maverick", "nomad", "gridlock", "nokk", "amaru", "kali", "iana", "ace", "zero", "flores", "osa", "sens", "grim",
-    "brava", "ram", "deimos", "striker", "rauora", "striker"
+    "brava", "ram", "deimos", "striker", "rauora"
   };
 
   static List<string> defenders = new List<string>
